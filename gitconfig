@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jeff.andes@gmail.com
+	name = Jeff Andes
